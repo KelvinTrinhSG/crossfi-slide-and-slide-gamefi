@@ -4,7 +4,7 @@ namespace MyGame.Web3.API
     public static class Config
     {
         // 🌐 Backend Server
-        public static readonly string BackendBaseUrl = "http://localhost:3000";
+        public static readonly string BackendBaseUrl = "https://crossfi-user-management.onrender.com";
 
         // 🧩 API Endpoints
         public static readonly string SignupEndpoint = "/api/users";
