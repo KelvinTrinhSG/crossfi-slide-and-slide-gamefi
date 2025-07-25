@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/WalletInform.unity
     guid: fae209f6c3fa418438429051bd3b3444
   - enabled: 1
+    path: Assets/Scenes/FortuneSpinWheel.unity
+    guid: af54cbf9216232745960f2d1c2666913
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: a04528eb776109a4a90b0ec671182289
   m_configObjects: {}

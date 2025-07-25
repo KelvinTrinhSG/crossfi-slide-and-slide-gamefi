@@ -210,7 +210,7 @@ namespace SgLib
             title.SetActive(true);
             playBtn.SetActive(true);
             characterSelectBtn.SetActive(true);
-            menuButtons.SetActive(false);
+            menuButtons.SetActive(true);
             shareUI.SetActive(false);
 
             // If first launch: show "WatchForCoins" and "DailyReward" buttons if the conditions are met
@@ -242,7 +242,7 @@ namespace SgLib
 
             playBtn.SetActive(true);
             characterSelectBtn.SetActive(true);
-            menuButtons.SetActive(false);
+            menuButtons.SetActive(true);
             settingsUI.SetActive(false);
 
             // Show 'daily reward' button
